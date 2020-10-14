@@ -1,0 +1,4 @@
+有两个类：DebugMain ValueProcess
+都有错误。
+通过此工程学习Eclipse或者MyEclipse的调试方法。
+详细调试步骤可参看《软件质量保证与测试》实验指导书 和备课本。
